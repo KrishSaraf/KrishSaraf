@@ -1,4 +1,4 @@
-<img align="middle" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="middle" alt="Coding" width="400" src="https://giphy.com/gifs/loopagain-hollywood-hack-hacking-xT1XGJEEqTOVq7IW4g)" />
 <h1 align="center">Hi, I'm Krish Saraf 🚀</h1>
 <h2 align="center">Learning and Building Data Science & AI Projects.</h2>
 <h2 align="center"> Love for finance makes me invest </h2>
