@@ -1,6 +1,6 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzgyZjUwOWIwNmRhOGQ3MmMxOTRhNjI1MzEyZTY5OWE1MDc0YTVlOSZjdD1n/rmSc0sA1rcN8g/giphy.gif)
+![MasterHead](<div style="width:100%;height:0;padding-bottom:90%;position:relative;"><iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>)
 <h1 align="center">Hi, I'm Krish Saraf 🚀</h1>
-<h2 align="center">Passionate about AI, Data Science, and Finance! </h2>
+<h2 align="center">Learning and Building Data Science & AI Projects. Love for finance makes me invest sometimes </h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 [![](https://visitcount.itsvg.in/api?id=KrishSaraf&icon=0&color=6)](https://visitcount.itsvg.in)
