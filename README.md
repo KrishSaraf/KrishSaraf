@@ -4,12 +4,10 @@
 <h2 align="center"> Love for finance makes me invest </h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-[![](https://visitcount.itsvg.in/api?id=KrishSaraf&icon=0&color=6)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 - 🔭 Currently exploring AI and Finance intersection 🚀  
 - 🌱 Computer Vision and AI Researcher @ NTU  
-- 👯 Building exciting projects @ Keppel and AMD 🔧  
+- 👯 Built exciting projects previously @Keppel  🔧  
 - 📈 Data Science and Investment Analyst @ Protégé Ventures  
 - 🧠 FinTech Enthusiast | Machine Learning Lover  
 - 💬 Let's chat about AI, Startups, or Tech in Finance!  
