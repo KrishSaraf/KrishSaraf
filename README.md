@@ -1,6 +1,7 @@
 ![MasterHead](<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />)
 <h1 align="center">Hi, I'm Krish Saraf 🚀</h1>
-<h2 align="center">Learning and Building Data Science & AI Projects. Love for finance makes me invest sometimes </h2>
+<h2 align="center">Learning and Building Data Science & AI Projects.</h2>
+<h2 align="center"> Love for finance makes me invest </h2>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 [![](https://visitcount.itsvg.in/api?id=KrishSaraf&icon=0&color=6)](https://visitcount.itsvg.in)
