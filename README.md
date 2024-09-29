@@ -4,7 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 # 💫 About Me:
-- 📚 Currently penultimate year student studying Economics and Data Science 🚀
+- 📚 Currently penultimate year student studying Economics and Data Science @ NTU
+- Current CGPA: 4.82 & 2 time Dean's Lister
 - 🏆 Previously All India Rank 4 in Grade 12 (99%) 🥇
 - 🎓 Vice President @ NTU Quantitative Asset Management Club 📊
 - 📈 Investment Analyst @ Protégé Ventures ~ SEA's first student-led VC (500k pool) 💰
