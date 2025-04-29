@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Krish Saraf - Data Science & AI Professional</title>
+    <style>
+        :root {
+            --primary: #2c3e50;
+            --secondary: #34495e;
+            --accent: #3498db;
+            --light: #ecf0f1;
+            --text: #2c3e50;
+            --subtle: #7f8c8d;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            color: var(--text);
+            background-color: var(--light);
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        
+        header {
+            background: linear-gradient(135deg, var(--primary), var(--secondary));
+            color: white;
+            padding: 60px 0 40px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2.8rem;
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+        
+        header h2 {
+            font-size: 1.5rem;
+            font-weight: 400;
+            margin-bottom: 10px;
+            opacity: 0.9;
+        }
+        
+        .profile-container {
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+            margin: 40px 0;
+        }
+        
+        .section {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            padding: 30px;
+            margin-bottom: 30px;
+        }
+        
+        .section-title {
+            font-size: 1.8rem;
+            color: var(--primary);
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .section-title span {
+            font-size: 1.8rem;
+        }
+        
+        .highlight {
+            background: #f8f9fa;
+            padding: 15px;
+            border-left: 4px solid var(--accent);
+            margin: 15px 0;
+            border-radius: 0 4px 4px 0;
+        }
+        
+        .stats {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        
+        .stat-item {
+            flex: 1;
+            min-width: 210px;
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 6px;
+            border-bottom: 3px solid var(--accent);
+        }
+        
+        .stat-item h3 {
+            font-size: 1.3rem;
+            margin-bottom: 8px;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .stat-item p {
+            font-size: 1rem;
+            color: var(--subtle);
+        }
+        
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin: 15px 0;
+        }
+        
+        .skill-category {
+            margin-bottom: 25px;
+        }
+        
+        .skill-category h3 {
+            margin-bottom: 10px;
+            color: var(--primary);
+            font-size: 1.2rem;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+        
+        .skill-tag {
+            background: #f1f1f1;
+            padding: 6px 12px;
+            border-radius: 4px;
+            font-size: 0.9rem;
+            color: var(--secondary);
+            display: inline-block;
+        }
+        
+        .experience-item {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .experience-item:last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+        
+        .experience-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 5px;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .experience-company {
+            font-size: 1rem;
+            color: var(--accent);
+            margin-bottom: 10px;
+        }
+        
+        .achievements {
+            list-style: none;
+        }
+        
+        .achievements li {
+            margin-bottom: 10px;
+            position: relative;
+            padding-left: 25px;
+        }
+        
+        .achievements li:before {
+            content: "•";
+            color: var(--accent);
+            font-weight: bold;
+            font-size: 1.2rem;
+            position: absolute;
+            left: 0;
+        }
+        
+        .contact {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .contact-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            text-decoration: none;
+            color: var(--primary);
+            padding: 10px;
+            border-radius: 4px;
+            transition: background 0.3s;
+        }
+        
+        .contact-item:hover {
+            background: #f1f1f1;
+        }
+        
+        .project {
+            margin-bottom: 25px;
+            padding-bottom: 25px;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .project:last-child {
+            border-bottom: none;
+            padding-bottom: 0;
+        }
+        
+        .project-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 10px;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .project-description {
+            margin-bottom: 10px;
+        }
+        
+        .project-skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        
+        .project-skill {
+            background: #f8f9fa;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            color: var(--subtle);
+        }
+        
+        .about-content {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        
+        .about-text {
+            flex: 3;
+        }
+        
+        .about-list {
+            list-style: none;
+        }
+        
+        .about-list li {
+            margin-bottom: 12px;
+            position: relative;
+            padding-left: 25px;
+            display: flex;
+            align-items: center;
+        }
+        
+        .about-list li span {
+            margin-right: 10px;
+        }
+        
+        footer {
+            background: var(--primary);
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 40px;
+        }
+        
+        @media (max-width: 768px) {
+            .about-content {
+                flex-direction: column;
+            }
+            
+            .stats {
+                flex-direction: column;
+            }
+            
+            .stat-item {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>KRISH SARAF</h1>
+            <h2>Data Science & AI Professional | Finance Enthusiast</h2>
+            <h2>Economics & Data Science @ NTU</h2>
+        </div>
+    </header>
+    
+    <div class="container profile-container">
+        <section class="section">
+            <h2 class="section-title"><span>🔍</span> Professional Summary</h2>
+            <div class="highlight">
+                Penultimate year Economics and Data Science student at NTU with a strong academic record (CGPA: 4.84/5.00). Passionate about leveraging AI and data science to solve complex problems in finance and business. Experienced in quantitative analysis, computer vision research, and venture capital with a proven track record of leadership.
+            </div>
+            
+            <div class="stats">
+                <div class="stat-item">
+                    <h3><span>🏆</span> Academic Excellence</h3>
+                    <p>CGPA: 4.84/5.00</p>
+                    <p>Dean's List (2x)</p>
+                    <p>All India Rank 4 (Grade 12)</p>
+                </div>
+                
+                <div class="stat-item">
+                    <h3><span>💼</span> Professional Experience</h3>
+                    <p>AI Researcher @ NTU</p>
+                    <p>Investment Analyst @ Protégé Ventures</p>
+                    <p>VP @ NTU Quant Asset Management</p>
+                </div>
+                
+                <div class="stat-item">
+                    <h3><span>🔧</span> Technical Expertise</h3>
+                    <p>AI/ML, Data Science, Computer Vision</p>
+                    <p>Finance & Consulting</p>
+                    <p>Programming (Python, R, Java)</p>
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title"><span>🎓</span> Education & Achievements</h2>
+            
+            <div class="experience-item">
+                <h3 class="experience-title">Economics & Data Science</h3>
+                <div class="experience-company">Nanyang Technological University (NTU)</div>
+                <ul class="achievements">
+                    <li>Current CGPA: 4.84/5.00</li>
+                    <li>Dean's List recipient for two consecutive years</li>
+                    <li>Vice President, NTU Quantitative Asset Management Club</li>
+                    <li>Computer Vision and AI Researcher</li>
+                </ul>
+            </div>
+            
+            <div class="experience-item">
+                <h3 class="experience-title">Pre-University Education</h3>
+                <div class="experience-company">Academic Excellence</div>
+                <ul class="achievements">
+                    <li>All India Rank 4 in Grade 12 with 99% marks</li>
+                    <li>Featured in the India Book of Records for academic achievements</li>
+                </ul>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title"><span>💡</span> Professional Experience</h2>
+            
+            <div class="experience-item">
+                <h3 class="experience-title">Computer Vision and AI Researcher</h3>
+                <div class="experience-company">Nanyang Technological University</div>
+                <ul class="achievements">
+                    <li>Conducting advanced research in computer vision applications</li>
+                    <li>Developing AI models for pattern recognition and data analysis</li>
+                    <li>Collaborating with faculty and industry partners on innovative projects</li>
+                </ul>
+            </div>
+            
+            <div class="experience-item">
+                <h3 class="experience-title">Investment Analyst</h3>
+                <div class="experience-company">Protégé Ventures - SEA's first student-led VC ($500k pool)</div>
+                <ul class="achievements">
+                    <li>Evaluating investment opportunities in the tech and AI sectors</li>
+                    <li>Conducting due diligence and financial analysis of potential investments</li>
+                    <li>Collaborating with founding teams to develop growth strategies</li>
+                </ul>
+            </div>
+            
+            <div class="experience-item">
+                <h3 class="experience-title">Vice President</h3>
+                <div class="experience-company">NTU Quantitative Asset Management Club</div>
+                <ul class="achievements">
+                    <li>Leading a team focused on quantitative finance and algorithmic trading</li>
+                    <li>Organizing workshops and events on financial markets and investment strategies</li>
+                    <li>Facilitating connections between students and industry professionals</li>
+                </ul>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title"><span>🚀</span> Notable Projects</h2>
+            
+            <div class="project">
+                <h3 class="project-title"><span>📊</span> Data Center Demand Prediction Model</h3>
+                <p class="project-description">Built a predictive analytics model for Keppel to forecast future demand and identify potential hotspots for data centers, incorporating geospatial analysis and market trends.</p>
+                <div class="project-skills">
+                    <span class="project-skill">Predictive Analytics</span>
+                    <span class="project-skill">Geospatial Analysis</span>
+                    <span class="project-skill">Market Research</span>
+                </div>
+            </div>
+            
+            <div class="project">
+                <h3 class="project-title"><span>🤖</span> Duet AI Development</h3>
+                <p class="project-description">Assisted Infosys Consulting on building "Duet AI" - a proprietary artificial intelligence solution that enhances business intelligence and decision-making processes.</p>
+                <div class="project-skills">
+                    <span class="project-skill">AI Development</span>
+                    <span class="project-skill">Business Intelligence</span>
+                    <span class="project-skill">Consulting</span>
+                </div>
+            </div>
+            
+            <div class="project">
+                <h3 class="project-title"><span>🌍</span> AI Lead Analyst: "Get My Leads"</h3>
+                <p class="project-description">Developed an AI-driven lead generation and analysis tool for BASF, automating prospect identification and qualification processes.</p>
+                <div class="project-skills">
+                    <span class="project-skill">AI</span>
+                    <span class="project-skill">Lead Generation</span>
+                    <span class="project-skill">Business Development</span>
+                </div>
+            </div>
+            
+            <div class="project">
+                <h3 class="project-title"><span>⚙️</span> Client Onboarding Automation</h3>
+                <p class="project-description">Created a web application for Tech Exactly that streamlines and automates the client onboarding process, reducing manual work and improving customer experience.</p>
+                <div class="project-skills">
+                    <span class="project-skill">Web Development</span>
+                    <span class="project-skill">Process Automation</span>
+                    <span class="project-skill">UX Design</span>
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title"><span>🛠️</span> Technical Skills</h2>
+            
+            <div class="skill-category">
+                <h3>Programming Languages</h3>
+                <div class="skills">
+                    <span class="skill-tag">Python</span>
+                    <span class="skill-tag">Java</span>
+                    <span class="skill-tag">C++</span>
+                    <span class="skill-tag">JavaScript</span>
+                    <span class="skill-tag">HTML/CSS</span>
+                    <span class="skill-tag">R</span>
+                </div>
+            </div>
+            
+            <div class="skill-category">
+                <h3>AI/ML Tools</h3>
+                <div class="skills">
+                    <span class="skill-tag">PyTorch</span>
+                    <span class="skill-tag">TensorFlow</span>
+                    <span class="skill-tag">scikit-learn</span>
+                    <span class="skill-tag">Keras</span>
+                    <span class="skill-tag">OpenCV</span>
+                </div>
+            </div>
+            
+            <div class="skill-category">
+                <h3>Data Science</h3>
+                <div class="skills">
+                    <span class="skill-tag">Pandas</span>
+                    <span class="skill-tag">NumPy</span>
+                    <span class="skill-tag">Matplotlib</span>
+                    <span class="skill-tag">Seaborn</span>
+                    <span class="skill-tag">SQL</span>
+                    <span class="skill-tag">Snowflake</span>
+                </div>
+            </div>
+            
+            <div class="skill-category">
+                <h3>Tools & Platforms</h3>
+                <div class="skills">
+                    <span class="skill-tag">Git</span>
+                    <span class="skill-tag">GitHub</span>
+                    <span class="skill-tag">AWS</span>
+                    <span class="skill-tag">Nginx</span>
+                    <span class="skill-tag">VSCode</span>
+                    <span class="skill-tag">Jupyter</span>
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title"><span>👤</span> About Me</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>Beyond my professional pursuits, I maintain a well-rounded lifestyle that reflects my dedication to excellence in all areas of life:</p>
+                    <ul class="about-list">
+                        <li><span>🥋</span> Taekwondo Black Belt holder</li>
+                        <li><span>🎾</span> Competed at National level in Lawn Tennis</li>
+                        <li><span>🌊</span> Certified Scuba Diver with a passion for marine exploration</li>
+                        <li><span>🏆</span> Featured in the India Book of Records for academic achievements</li>
+                        <li><span>💪</span> Firm believer in hard work and continuous improvement</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        
+        <section class="section">
+            <h2 class="section-title"><span>📫</span> Get In Touch</h2>
+            <p>I'm always interested in connecting with professionals and enthusiasts in AI, finance, and data science. Let's discuss potential collaborations, research opportunities, or just exchange ideas!</p>
+            
+            <div class="contact">
+                <a href="https://www.linkedin.com/in/krishsaraf" class="contact-item">
+                    <span>💼</span> LinkedIn
+                </a>
+                <a href="mailto:your-email@example.com" class="contact-item">
+                    <span>📧</span> Email
+                </a>
+            </div>
+        </section>
+    </div>
+    
+    <footer>
+        <div class="container">
+            <p>© 2025 Krish Saraf - Data Science & AI Professional</p>
+        </div>
+    </footer>
+</body>
+</html>
