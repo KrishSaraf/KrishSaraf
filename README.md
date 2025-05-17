@@ -3,22 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="https://krishsaraf.com" target="_blank" style="
-    display: inline-block;
-    padding: 15px 30px;
-    font-size: 20px;
-    font-weight: 600;
-    color: white;
-    background: linear-gradient(90deg, #ff416c, #ff4b2b);
-    border-radius: 50px;
-    text-decoration: none;
-    box-shadow: 0 8px 20px rgba(255, 75, 43, 0.4);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  " onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 24px rgba(255, 75, 43, 0.6)';"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 8px 20px rgba(255, 75, 43, 0.4)';">
-    🚀 Visit My Portfolio — It Will Blow Your Mind 🤯
+  <a href="https://krishsaraf.com" target="_blank">
+    <img
+      src="https://capsule-render.vercel.app/api?type=rect&height=140&fontSize=32&text=%F0%9F%9A%80%20Visit%20My%20Portfolio%3B%20You%20Will%20Love%20It%20%E2%9D%A4%EF%B8%8F&fontColor=ffffff&color=0:007cf0,100:00dfd8"
+      alt="Visit my portfolio"
+    />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://i.postimg.cc/nzzXcFVv/image.png" width="100%"/>
