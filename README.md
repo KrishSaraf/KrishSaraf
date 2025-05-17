@@ -26,16 +26,14 @@
 
 ## <div align="center">🤝 Companies I've Worked With</div>
 
-<div align="center">
-  <a href="#"><img src="https://i.postimg.cc/9fXMJm7v/uob-logo.png" height="60" alt="UOB"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://i.postimg.cc/gkRn0BpB/keppel-logo.png" height="60" alt="Keppel"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://i.postimg.cc/pV3mRMwF/basf-logo.png" height="60" alt="BASF"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://i.postimg.cc/sg4xYQvY/fab-logo.png" height="60" alt="First Abu Dhabi Bank"></a>
-</div>
-<div align="center" style="margin-top: 15px;">
-  <a href="#"><img src="https://i.postimg.cc/FR7KXTGp/techexactly-logo.png" height="60" alt="Tech Exactly"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://i.postimg.cc/Hkgj84sW/tdm-logo.png" height="60" alt="JDM"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://i.postimg.cc/zfdfQsw3/sgh-logo.png" height="60" alt="Singapore General Hospital"></a>
+<div align="center" style="margin: 20px 0;">
+  <a href="#"><img src="https://i.postimg.cc/9fXMJm7v/uob-logo.png" height="40" alt="UOB" style="background-color: rgba(255,255,255,0.1); padding: 8px 15px; border-radius: 5px; margin: 5px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/gkRn0BpB/keppel-logo.png" height="40" alt="Keppel" style="background-color: rgba(255,255,255,0.1); padding: 8px 15px; border-radius: 5px; margin: 5px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/pV3mRMwF/basf-logo.png" height="40" alt="BASF" style="background-color: rgba(255,255,255,0.1); padding: 8px 15px; border-radius: 5px; margin: 5px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/sg4xYQvY/fab-logo.png" height="40" alt="First Abu Dhabi Bank" style="background-color: rgba(255,255,255,0.1); padding: 8px 15px; border-radius: 5px; margin: 5px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/FR7KXTGp/techexactly-logo.png" height="40" alt="Tech Exactly" style="background-color: rgba(255,255,255,0.1); padding: 8px 15px; border-radius: 5px; margin: 5px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/Hkgj84sW/tdm-logo.png" height="40" alt="JDM" style="background-color: rgba(255,255,255,0.1); padding: 8px 15px; border-radius: 5px; margin: 5px;"></a>
+  <a href="#"><img src="https://i.postimg.cc/zfdfQsw3/sgh-logo.png" height="40" alt="Singapore General Hospital" style="background-color: rgba(255,255,255,0.1); padding: 8px 15px; border-radius: 5px; margin: 5px;"></a>
 </div>
 
 ---
