@@ -11,7 +11,8 @@
   </a>
 </p>
 
-
 <p align="center">
-  <img src="https://i.postimg.cc/nzzXcFVv/image.png" width="100%"/>
+  <a href="https://krishsaraf.com" target="_blank">
+    <img src="https://i.postimg.cc/nzzXcFVv/image.png" width="100%"/>
+  </a>
 </p>
