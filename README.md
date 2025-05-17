@@ -27,16 +27,15 @@
 ## <div align="center">🤝 Companies I've Worked With</div>
 
 <div align="center">
-  
-![UOB](https://img.shields.io/badge/-UOB-00205B?style=for-the-badge&logo=uob&logoColor=white)
-![Keppel](https://img.shields.io/badge/-Keppel-0066CC?style=for-the-badge&logo=keppel&logoColor=white)
-![BASF](https://img.shields.io/badge/-BASF-1E72B8?style=for-the-badge&logo=basf&logoColor=white)
-![First Abu Dhabi Bank](https://img.shields.io/badge/-First_Abu_Dhabi_Bank-00205B?style=for-the-badge&logo=fab&logoColor=white)
-
-![Tech Exactly](https://img.shields.io/badge/-Tech_Exactly-FF6C37?style=for-the-badge&logo=techexactly&logoColor=white)
-![JDM](https://img.shields.io/badge/-JDM-C8102E?style=for-the-badge&logo=jdm&logoColor=white)
-![Singapore General Hospital](https://img.shields.io/badge/-Singapore_General_Hospital-005EB8?style=for-the-badge&logo=hospital&logoColor=white)
-  
+  <a href="#"><img src="https://i.postimg.cc/9fXMJm7v/uob-logo.png" height="60" alt="UOB"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://i.postimg.cc/gkRn0BpB/keppel-logo.png" height="60" alt="Keppel"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://i.postimg.cc/pV3mRMwF/basf-logo.png" height="60" alt="BASF"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://i.postimg.cc/sg4xYQvY/fab-logo.png" height="60" alt="First Abu Dhabi Bank"></a>
+</div>
+<div align="center" style="margin-top: 15px;">
+  <a href="#"><img src="https://i.postimg.cc/FR7KXTGp/techexactly-logo.png" height="60" alt="Tech Exactly"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://i.postimg.cc/Hkgj84sW/tdm-logo.png" height="60" alt="JDM"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://i.postimg.cc/zfdfQsw3/sgh-logo.png" height="60" alt="Singapore General Hospital"></a>
 </div>
 
 ---
