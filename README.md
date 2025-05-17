@@ -1,14 +1,24 @@
-# <div align="center">Hi, I'm Krish Saraf 👋</div>
+<!--Banner-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Krish%20Saraf&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
+<div>
+  <img align="right" width="30%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+</div>
+
+# <div align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Krish!</div>
 
 <div align="center">
   <b>Economics & Data Science @ NTU Singapore</b> — versatile, fast-moving, always learning
 </div>
 
-<div align="center">
-From scoring <b>99%</b> in Grade 12 and earning a <b>4.84/5.0 CGPA</b>, to being a national-level tennis player, black belt in Taekwondo, certified scuba diver—and someone who can act, dance, and lead—I don't just learn fast, I deliver faster.
-</div>
+<p align="left">From scoring <b>99%</b> in Grade 12 and earning a <b>4.84/5.0 CGPA</b>, to being a national-level tennis player, black belt in Taekwondo, certified scuba diver—and someone who can act, dance, and lead—I don't just learn fast, I deliver faster.</p>
 
-<br>
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=KrishSaraf&label=Profile%20views&color=8B005D&style=for-the-badge&logo=star" alt="Profile Views" style="padding-right:20px;" />
+</p>
 
 <div align="center">
   <a href="#" target="_blank">
@@ -19,7 +29,7 @@ From scoring <b>99%</b> in Grade 12 and earning a <b>4.84/5.0 CGPA</b>, to being
   </a>
 </div>
 
-<hr>
+---
 
 ## <div align="center">🤝 Companies I've Worked With</div>
 
@@ -36,9 +46,26 @@ From scoring <b>99%</b> in Grade 12 and earning a <b>4.84/5.0 CGPA</b>, to being
   
 </div>
 
-<hr>
+---
 
-## <div align="center">🛠️ Skills Matrix</div>
+## <div align="center">🛠️ Skills Matrix & Current Learning</div>
+
+<div>
+  <img align="right" width="45%" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+
+### Current Focus
+<ul align="left">
+  <li>Advanced Machine Learning & Deep Learning techniques</li>
+  <li>Natural Language Processing with transformer models</li>
+  <li>Big Data Engineering with Spark and distributed systems</li>
+  <li>Cloud Architecture with AWS and Azure</li>
+  <li>Full-stack development with React and Node.js</li>
+  <li>Data visualization for business intelligence</li>
+  <li>MLOps and deploying ML systems at scale</li>
+</ul>
+
+<br>
 
 <details>
 <summary><b>Click to expand full skill set</b></summary>
@@ -134,7 +161,7 @@ From scoring <b>99%</b> in Grade 12 and earning a <b>4.84/5.0 CGPA</b>, to being
 ![Creativity](https://img.shields.io/badge/-Creativity-FF69B4?style=flat-square&logo=creativity&logoColor=white)
 </details>
 
-<br>
+<br clear="both">
 
 ### Core Technologies
 <div align="center">
@@ -147,7 +174,34 @@ From scoring <b>99%</b> in Grade 12 and earning a <b>4.84/5.0 CGPA</b>, to being
   
 </div>
 
-<hr>
+---
+
+## <div align="center">📈 GitHub Stats</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3><strong>GitHub Stats</strong></h3>
+      <a href="https://github.com/KrishSaraf">
+        <img src="https://github-readme-stats.vercel.app/api?username=KrishSaraf&show_icons=true&theme=radical&bg_color=0,000000,8B005D&title_color=E91E63&text_color=ffffff" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3><strong>Streak Stats</strong></h3>
+      <a href="https://github.com/KrishSaraf">
+        <img src="https://streak-stats.demolab.com?user=KrishSaraf&theme=radical&background=0,000000,8B005D&ring=E91E63&fire=E91E63&currStreakLabel=E91E63" alt="Streak Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--Contribution Graph-->
+<div align="center">
+  <h3>📊 Contribution Graph 📊</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishSaraf&bg_color=0D1117&color=E91E63&line=8B005D&point=FFFFFF&hide_border=false" />
+</div>
+
+---
 
 ## <div align="center">📫 Connect With Me</div>
 
@@ -163,21 +217,18 @@ From scoring <b>99%</b> in Grade 12 and earning a <b>4.84/5.0 CGPA</b>, to being
   </a>
 </div>
 
-<hr>
-
-## <div align="center">📈 GitHub Stats</div>
-
+<!--Buy me a coffee-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishSaraf&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+  <br>
+  <a href="https://www.buymeacoffee.com/krishsaraf" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 160px !important;" >
+  </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrishSaraf&theme=radical&hide_border=true" align="center" />
-</div>
-
-<hr>
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <div align="center">
   <em>Always learning. Always delivering.</em>
