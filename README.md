@@ -20,14 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=KrishSaraf&label=Profile%20views&color=8B005D&style=for-the-badge&logo=star" alt="Profile Views" style="padding-right:20px;" />
 </p>
 
-<div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Check_out_my_work-8B005D?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:krish001@e.ntu.edu.sg">
-    <img src="https://img.shields.io/badge/Get_in_touch-E91E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+
 
 ---
 
