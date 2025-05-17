@@ -1,10 +1,47 @@
-# Hi, I'm Krish Saraf 👋
+# <div align="center">Hi, I'm Krish Saraf 👋</div>
 
-Currently pursuing Economics & Data Science at NTU, in a nutshell, I'm versatile.
+<div align="center">
+  <b>Economics & Data Science @ NTU Singapore</b> — versatile, fast-moving, always learning
+</div>
 
-From scoring 99% in Grade 12 and earning a 4.84/5.0 CGPA, to being a national-level tennis player, black belt in Taekwondo, certified scuba diver—and someone who can act, dance, and lead—I don't just learn fast, I deliver faster.
+<div align="center">
+From scoring <b>99%</b> in Grade 12 and earning a <b>4.84/5.0 CGPA</b>, to being a national-level tennis player, black belt in Taekwondo, certified scuba diver—and someone who can act, dance, and lead—I don't just learn fast, I deliver faster.
+</div>
 
-## 📊 Skills
+<br>
+
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Check_out_my_work-8B005D?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:krish001@e.ntu.edu.sg">
+    <img src="https://img.shields.io/badge/Get_in_touch-E91E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<hr>
+
+## <div align="center">🤝 Companies I've Worked With</div>
+
+<div align="center">
+  
+![UOB](https://img.shields.io/badge/-UOB-00205B?style=for-the-badge&logo=uob&logoColor=white)
+![Keppel](https://img.shields.io/badge/-Keppel-0066CC?style=for-the-badge&logo=keppel&logoColor=white)
+![BASF](https://img.shields.io/badge/-BASF-1E72B8?style=for-the-badge&logo=basf&logoColor=white)
+![First Abu Dhabi Bank](https://img.shields.io/badge/-First_Abu_Dhabi_Bank-00205B?style=for-the-badge&logo=fab&logoColor=white)
+
+![Tech Exactly](https://img.shields.io/badge/-Tech_Exactly-FF6C37?style=for-the-badge&logo=techexactly&logoColor=white)
+![JDM](https://img.shields.io/badge/-JDM-C8102E?style=for-the-badge&logo=jdm&logoColor=white)
+![Singapore General Hospital](https://img.shields.io/badge/-Singapore_General_Hospital-005EB8?style=for-the-badge&logo=hospital&logoColor=white)
+  
+</div>
+
+<hr>
+
+## <div align="center">🛠️ Skills Matrix</div>
+
+<details>
+<summary><b>Click to expand full skill set</b></summary>
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -95,41 +132,54 @@ From scoring 99% in Grade 12 and earning a 4.84/5.0 CGPA, to being a national-le
 ![Critical Thinking](https://img.shields.io/badge/-Critical_Thinking-FFA500?style=flat-square&logo=thinking&logoColor=white)
 ![Adaptability](https://img.shields.io/badge/-Adaptability-7B68EE?style=flat-square&logo=adaptability&logoColor=white)
 ![Creativity](https://img.shields.io/badge/-Creativity-FF69B4?style=flat-square&logo=creativity&logoColor=white)
+</details>
 
-## 🤝 Companies I have worked with
+<br>
 
-![UOB](https://img.shields.io/badge/-UOB-00205B?style=flat-square&logo=uob&logoColor=white)
-![Keppel](https://img.shields.io/badge/-Keppel-0066CC?style=flat-square&logo=keppel&logoColor=white)
-![BASF](https://img.shields.io/badge/-BASF-1E72B8?style=flat-square&logo=basf&logoColor=white)
-![First Abu Dhabi Bank](https://img.shields.io/badge/-First_Abu_Dhabi_Bank-00205B?style=flat-square&logo=fab&logoColor=white)
-![Tech Exactly](https://img.shields.io/badge/-Tech_Exactly-FF6C37?style=flat-square&logo=techexactly&logoColor=white)
-![JDM](https://img.shields.io/badge/-JDM-C8102E?style=flat-square&logo=jdm&logoColor=white)
-![Singapore General Hospital](https://img.shields.io/badge/-Singapore_General_Hospital-005EB8?style=flat-square&logo=hospital&logoColor=white)
+### Core Technologies
+<div align="center">
+  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data_Science-FF6C37?style=for-the-badge&logo=anaconda&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Full Stack](https://img.shields.io/badge/-Full_Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Cloud & DevOps](https://img.shields.io/badge/-Cloud_&_DevOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  
+</div>
 
-## 📫 Connect with me
+<hr>
+
+## <div align="center">📫 Connect With Me</div>
 
 <div align="center">
   <a href="https://github.com/KrishSaraf" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/krishsaraf/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:krish001@e.ntu.edu.sg">
+    <img src="https://img.shields.io/badge/email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-## 🌟 Featured Projects
+<hr>
 
-- Coming soon...
-
-## 📈 GitHub Stats
+## <div align="center">📈 GitHub Stats</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishSaraf&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishSaraf&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
 </div>
 
----
+<br>
 
 <div align="center">
-  <p>📝 Continuously learning everyday....</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KrishSaraf&theme=radical&hide_border=true" align="center" />
+</div>
+
+<hr>
+
+<div align="center">
+  <em>Always learning. Always delivering.</em>
 </div>
 ```
