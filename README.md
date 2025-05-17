@@ -63,7 +63,11 @@
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2> 
 
 <div align="center">
+<<<<<<< HEAD
   <img src="https://i.postimg.cc/y8Jp9sDT/Skills-Animation-White.gif" width="70%" alt="Skills Animation">
+=======
+  <img src="[https://i.postimg.cc/PpGcBVx2/skills-animation.gif](https://i.postimg.cc/y8Jp9sDT/Skills-Animation-White.gif)" width="70%" alt="Skills Animation">
+>>>>>>> 7a2552f4778952bfd3d2038327df36f5a28ba084
 </div>
 <br />
 
