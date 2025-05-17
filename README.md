@@ -16,9 +16,9 @@
 <p align="left">From scoring <b>99%</b> in Grade 12 and earning a <b>4.84/5.0 CGPA</b>, to being a national-level tennis player, black belt in Taekwondo, certified scuba diver—and someone who can act, dance, and lead—I don't just learn fast, I deliver faster.</p>
 
 <!--Profile Count Badge-->
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KrishSaraf&label=Profile%20views&color=8B005D&style=for-the-badge&logo=star" alt="Profile Views" style="padding-right:20px;" />
-</p>
+</p> -->
 
 
 
@@ -59,8 +59,16 @@
 </ul>
 
 <br>
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
-<details>
+<!-- <details>
 <summary><b>Click to expand full skill set</b></summary>
 
 ### Programming Languages
@@ -152,7 +160,7 @@
 ![Critical Thinking](https://img.shields.io/badge/-Critical_Thinking-FFA500?style=flat-square&logo=thinking&logoColor=white)
 ![Adaptability](https://img.shields.io/badge/-Adaptability-7B68EE?style=flat-square&logo=adaptability&logoColor=white)
 ![Creativity](https://img.shields.io/badge/-Creativity-FF69B4?style=flat-square&logo=creativity&logoColor=white)
-</details>
+</details> -->
 
 <br clear="both">
 
