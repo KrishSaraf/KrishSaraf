@@ -34,7 +34,7 @@
 ![First Abu Dhabi Bank](https://img.shields.io/badge/-First_Abu_Dhabi_Bank-00205B?style=for-the-badge&logo=fab&logoColor=white)
 
 ![Tech Exactly](https://img.shields.io/badge/-Tech_Exactly-FF6C37?style=for-the-badge&logo=techexactly&logoColor=white)
-![JDM](https://img.shields.io/badge/-JDM-C8102E?style=for-the-badge&logo=jdm&logoColor=white)
+![JDM](https://img.shields.io/badge/-Think_Design_Make-C8102E?style=for-the-badge&logo=jdm&logoColor=white)
 ![Singapore General Hospital](https://img.shields.io/badge/-Singapore_General_Hospital-005EB8?style=for-the-badge&logo=hospital&logoColor=white)
   
 </div>
@@ -43,9 +43,6 @@
 
 ## <div align="center">🛠️ Skills Matrix & Current Learning</div>
 
-<div>
-  <img align="right" width="45%" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
 
 ### Current Focus
 <ul align="left">
@@ -58,14 +55,7 @@
   <li>MLOps and deploying ML systems at scale</li>
 </ul>
 
-<br>
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2> 
 
-<div align="center">
-  <img src="Skills_Animation_White.gif" width="70%" alt="Skills Animation">
-</div>
-<br />
 
 <!-- <details>
 <summary><b>Click to expand full skill set</b></summary>
