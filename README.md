@@ -16,7 +16,7 @@
 I'm a **Quantitative Analyst** at **Squarepoint Capital**.  
 I studied **Economics & Data Science** at **NTU** (CGPA **4.88 / 5.00**).
 
-I care about **quant research**, **AI**, **finance**, and **startups**.
+Passinate about **quant research**, **AI**, **finance**, and **startups**.
 
 ---
 
@@ -25,11 +25,9 @@ I care about **quant research**, **AI**, **finance**, and **startups**.
 | | |
 |:---:|:---|
 | 🎓 | **All India Rank 4** in **ISC Grade 12** board examinations |
-| 🏆 | **Hackathon winner** & **problem solver** — excited to build with great people |
+| 🏆 | **7 time Hackathon winner** & **problem solver** — excited to build with great people |
 
 ---
-
-<sub>Thanks for stopping by — feel free to reach out on LinkedIn.</sub>
 
 <br/>
 
