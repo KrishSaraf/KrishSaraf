@@ -17,15 +17,15 @@ I placed **All India Rank 4** in the **ISC Grade 12** board exams. **7× hackath
 <!-- One row, no nested boxes — edit wa.me + mailto -->
 
 <p align="center">
-  <a href="https://github.com/KrishSaraf"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/-transparent?style=flat-square&label=%20&color=transparent" width="8" height="1" alt="" />
-  <a href="https://www.linkedin.com/in/krishsaraf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/-transparent?style=flat-square&label=%20&color=transparent" width="8" height="1" alt="" />
-  <a href="https://wa.me/65XXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="32" alt="WhatsApp" /></a>
-  <img src="https://img.shields.io/badge/-transparent?style=flat-square&label=%20&color=transparent" width="8" height="1" alt="" />
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/-transparent?style=flat-square&label=%20&color=transparent" width="8" height="1" alt="" />
-  <a href="https://krishsaraf.com"><img src="https://img.shields.io/badge/Website-krishsaraf.com-be185d?style=flat-square&logo=googlechrome&logoColor=white" height="32" alt="Website" /></a>
+  <a href="https://github.com/KrishSaraf"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="40" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/-transparent?style=flat-square&label=%20&color=transparent" width="10" height="1" alt="" />
+  <a href="https://www.linkedin.com/in/krishsaraf/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/-transparent?style=flat-square&label=%20&color=transparent" width="10" height="1" alt="" />
+  <a href="https://wa.me/6598117311"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp" /></a>
+  <img src="https://img.shields.io/badge/-transparent?style=flat-square&label=%20&color=transparent" width="10" height="1" alt="" />
+  <a href="mailto:krishsaraf05@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="40" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/-transparent?style=flat-square&label=%20&color=transparent" width="10" height="1" alt="" />
+  <a href="https://krishsaraf.com"><img src="https://img.shields.io/badge/Website-krishsaraf.com-be185d?style=flat-square&logo=googlechrome&logoColor=white" height="40" alt="Website" /></a>
 </p>
 
 </div>
