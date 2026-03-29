@@ -28,4 +28,7 @@ I placed **All India Rank 4** in the **ISC Grade 12** board exams. **7× hackath
   <a href="https://krishsaraf.com"><img src="https://img.shields.io/badge/Website-krishsaraf.com-be185d?style=flat-square&logo=googlechrome&logoColor=white" height="40" alt="Website" /></a>
 </p>
 
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:be185d,100:e879f9&height=100&section=footer&fontSize=0&animation=twinkling" width="100%" alt="" />
+
 </div>
