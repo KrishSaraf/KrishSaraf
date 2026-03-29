@@ -1,18 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Krish%20Saraf&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://krishsaraf.com" target="_blank">
-    <img
-      src="https://capsule-render.vercel.app/api?type=rect&height=140&fontSize=32&text=%F0%9F%9A%80%20Visit%20My%20Portfolio%3B%20You%20Will%20Love%20It%20%E2%9D%A4%EF%B8%8F&fontColor=ffffff&color=0:007cf0,100:00dfd8"
-      alt="Visit my portfolio"
-    />
-  </a>
-</p>
+### Hi, I'm Krish
 
-<p align="center">
-  <a href="https://krishsaraf.com" target="_blank">
-    <img src="https://i.postimg.cc/nzzXcFVv/image.png" width="100%"/>
-  </a>
-</p>
+**Website:** [krishsaraf.com](https://krishsaraf.com) · **LinkedIn:** [krishsaraf](https://www.linkedin.com/in/krishsaraf/)
+
+---
+
+I'm a **Quantitative Analyst at Squarepoint Capital**. I studied **Economics & Data Science** at **NTU** (CGPA **4.88 / 5.00**). I'm into **quant research, AI, finance, and startups**.
+
+I placed **All India Rank 4** in the **ISC Grade 12** board exams.
+
+**Hackathon winner** and **problem solver** — always keen to build with great people.
+
+</div>
