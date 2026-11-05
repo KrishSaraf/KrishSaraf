@@ -10,7 +10,7 @@ I'm a **Quantitative Analyst** at **Squarepoint Capital**. I studied **Economics
 
 Passionate about **quant research**, **AI**, **finance**, and **startups**.
 
-I placed **All India Rank 4** in the **ISC Grade 12** board exams. **7× hackathon winner** and **problem solver** — excited to build with great people.
+I placed **All India Rank 4** in the **ISC Grade 12** board exams. **8× hackathon winner** and **problem solver** — excited to build with great people.
 
 <br/>
 
